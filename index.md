@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Pestaña de mi blog
 # Mi github page
 ## Contenido
 ---
