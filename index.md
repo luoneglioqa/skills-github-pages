@@ -1,5 +1,5 @@
 ---
-title: Nombre de Pestaña!
+title: Nombre
 ---
 # Mi github page
 ## Contenido
